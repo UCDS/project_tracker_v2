@@ -1,0 +1,11 @@
+[01-Aug-2014 10:55:53 UTC] PHP Parse error:  syntax error, unexpected 'exit' (T_EXIT), expecting ',' or ';' in /home/ceapmsidc/public_html/project_tracker/index.php on line 3
+[01-Aug-2014 10:55:55 UTC] PHP Parse error:  syntax error, unexpected 'exit' (T_EXIT), expecting ',' or ';' in /home/ceapmsidc/public_html/project_tracker/index.php on line 3
+[01-Aug-2014 10:55:56 UTC] PHP Parse error:  syntax error, unexpected 'exit' (T_EXIT), expecting ',' or ';' in /home/ceapmsidc/public_html/project_tracker/index.php on line 3
+[01-Aug-2014 10:55:57 UTC] PHP Parse error:  syntax error, unexpected 'exit' (T_EXIT), expecting ',' or ';' in /home/ceapmsidc/public_html/project_tracker/index.php on line 3
+[12-Aug-2014 09:36:55 UTC] PHP Warning:  session_destroy(): Trying to destroy uninitialized session in /home/ceapmsidc/public_html/project_tracker/index.php on line 2
+[12-Aug-2014 09:36:55 UTC] PHP Warning:  session_destroy(): Trying to destroy uninitialized session in /home/ceapmsidc/public_html/project_tracker/index.php on line 2
+[12-Aug-2014 09:36:56 UTC] PHP Warning:  session_destroy(): Trying to destroy uninitialized session in /home/ceapmsidc/public_html/project_tracker/index.php on line 2
+[25-Aug-2014 15:30:44 Asia/Calcutta] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 6 bytes) in /home/ceapmsidc/public_html/project_tracker/system/database/drivers/mysql/mysql_result.php on line 167
+[01-Dec-2015 09:52:12 UTC] PHP Warning:  POST Content-Length of 9566552 bytes exceeds the limit of 8388608 bytes in Unknown on line 0
+[25-Jul-2016 16:16:32 Asia/Calcutta] PHP Fatal error:  Call to undefined method CI_DB_mysql_driver::post() in /home/ceapmsidc/public_html/project_tracker/application/models/masters_model.php on line 369
+[02-Nov-2017 11:19:50 UTC] PHP Warning:  POST Content-Length of 10551180 bytes exceeds the limit of 8388608 bytes in Unknown on line 0
